@@ -1,2 +1,2 @@
-# Installation-Tutorial-PhoneCatalouge
-In-detail tutorial for a python and Rasp-Pi phone-catalogue
+# Queries, subgrid, :has() & :is()
+In-detail tutorial for the new css methods listed above.
